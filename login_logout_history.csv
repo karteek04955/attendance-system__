@@ -1,0 +1,3 @@
+event_id,user_id,name,role,department,date,time,event_type,confidence_pct,duration_since_login
+TU6241104111031_20260308143940,TU6241104111031,karteek,Product Manager,btech,2026-03-08,02:39:40 PM,LOGIN,72.2,
+TU6241104111031_20260308144113,TU6241104111031,karteek,Product Manager,btech,2026-03-08,02:41:13 PM,LOGOUT,65.5,1m 33s
