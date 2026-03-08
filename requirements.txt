@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+mediapipe
+face_recognition
+qrcode
+pandas
+numpy
+pillow
+cmake
+dlib
