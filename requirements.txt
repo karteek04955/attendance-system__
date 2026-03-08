@@ -1,10 +1,7 @@
 streamlit
-opencv-python
+opencv-python-headless
 mediapipe
-face_recognition
-qrcode
 pandas
 numpy
 pillow
-cmake
-dlib
+qrcode
